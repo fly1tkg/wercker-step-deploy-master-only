@@ -1,5 +1,5 @@
 name: deploy-master-only
-version: 0.0.6
+version: 0.1.0
 description: Deploy fails unless you deploy a master branch.
 keywords:
   - deploy
